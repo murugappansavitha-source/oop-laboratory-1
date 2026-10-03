@@ -37,3 +37,13 @@ class Consumer {
         curr_reading = in.nextDouble();
 
         unit_consumed = curr_reading - pre_readin
+Output:
+Enter Consumer number = 101
+Enter Consumer name = Ravi
+Enter the type of connection = domestic
+Enter pre_month reading = 100
+Enter current_month reading = 250
+
+Customer name = Ravi
+Total units = 150.0
+Total bill = Rs 375.0
